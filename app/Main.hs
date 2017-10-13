@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import OneThroughTen
 
 main :: IO ()
 main = someFunc
